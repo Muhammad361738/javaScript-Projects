@@ -1,0 +1,55 @@
+*{
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    font-family: cursive;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #AD88c6;
+
+}
+.container{
+    height: 300px;
+    width: 500px;
+    border: 2px solid gray;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 10px 15px rgba( 0,0,0,0.8);
+    padding: 10px;
+}
+.totalarea{
+    height: 100px;
+    width: 100%;
+    outline: none;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 2px solid gray;
+    color: gray;
+}
+.counter{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 5px;
+}
+.counter p {
+    color: gray;
+    font-size: 15px;
+}
+.totalchar{
+    color: blue;
+}
+.remaingchar{
+    color: red;
+}
+
+
+
+
+
+
+

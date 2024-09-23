@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(177, 193, 113)   ;
+    position: relative;
+    top: 50px;
+    left: 450px;
+}
+.main{
+    height: 450px;
+    width: 420px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: #ff7488;
+    border-radius: 20px;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.9);
+
+}
+#height{
+    margin: 15px;
+    padding: 8px;
+    font-weight: bolder;
+    font-size: 15px;
+}
+#weight{
+    margin: 15px;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 15px;
+}
+button{
+    height: 30px;
+    width: 100px;
+    border: 2px solid gray;
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+button:hover{
+    background-color: lightblue;
+    color: blue;
+}

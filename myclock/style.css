@@ -1,0 +1,35 @@
+body{
+    background-color: #212121;
+    height: 100vh;
+    position: relative;
+    top: 120px;
+    left: 400px;
+     color: white;
+}
+.main{
+    background-color: #cbb7b6;
+    height: 150px;
+    width: 450px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 25px;
+
+}
+h1{
+    margin-left: 120px;
+}
+#banner{
+  padding: 10px;
+  color: black;
+  font-weight: 900;
+}
+#clock{
+    height: 45px;
+    width: 200px;
+    border: 2px solid gray;
+    background-color: orangered;
+    border-radius: 15px;
+    position: relative;
+    top: 10px;
+    left: 120px;
+}
